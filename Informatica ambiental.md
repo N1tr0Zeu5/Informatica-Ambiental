@@ -19,7 +19,10 @@
 <img src="https://i.blogs.es/466383/all-the-worlds-carbon-emissions-1-/1366_2000.jpeg" alt="enter image description here"></p>
 <p>La actividad humana ha sido la principal fuente de contaminación del planeta, contaminando así nuestro entorno y alterando el equilibrio de los ecosistemas, siendo esto un riesgo considerable tanto para la salud, como las enfermedades respiratorias agravadas o la biosfera, alterando hábitat y destruyendo fauna y flora.<br>
 <img src="https://camo.githubusercontent.com/b773f3c29d154028a8b55904fd1317bc004310e68ca391c4a1177885e0de53a1/68747470733a2f2f7777772e636570616c2e6f72672f73697465732f64656661756c742f66696c65732f70722f696d616765732f666f746f5f706c61737469636f732e6a7065673f74696d657374616d703d31363835393834333137" alt="enter image description here"></p>
-<p>La OMS (<a href="https://www.who.int/es/health-topics/air-pollution#tab=tab_1">“Organizacion Mundial de la Salud”</a>) afirma que una gran parte de la población reside en áreas contaminadas superando los limites establecidos como saludables.</p>
+<p>La OMS (<a href="https://www.who.int/es/health-topics/air-pollution#tab=tab_1">“Organizacion Mundial de la Salud”</a>) afirma que una gran parte de la población reside en áreas contaminadas superando los limites establecidos como saludables.<br>
+<img src="https://www.paho.org/es/file/55321/download?token=CCGSyC5m" alt="enter image description here"></p>
+<p><img src="https://www.paho.org/es/file/58319/download?token=OywYiTkp" alt="enter image description here"></p>
+<p><img src="https://vamosahaceralgoporlatierra.com/wp-content/uploads/2019/06/Air_Pollution_infographics_SP4-750x750.jpg" alt="enter image description here"></p>
 <blockquote></blockquote>
 <h2 id="º-la-contaminación-tecnológica"><em><strong>2º La Contaminación Tecnológica</strong></em></h2>
 <p>–El creciente auge de la tecnología esta haciendo que muchos dispositivos desde teléfonos móviles, tabletas, portátiles y todo tipo de dispositivos sean desechados cuando su vida útil se termina, la tasa de reciclaje de estos no es suficiente de día de hoy.</p>
