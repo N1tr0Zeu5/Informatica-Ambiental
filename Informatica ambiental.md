@@ -67,6 +67,6 @@ No obstante también hay países que encabezan a los mas contaminantes :<br>
 <!--stackedit_data:&#10;eyJoaXN0b3J5IjpbLTE3NTM0NDIxOTYsMTczMjQ4MjE1Nl19&#10;-->
 <blockquote>
 <hr>
-<p>Realizado por Alejando Lamprea Pérez “AKA Elepe” y Rubén Ramírez García “AKA N1Tr0”</p>
+<p>Realizado por Alejando Lamprea Pérez “AKA Elépe” y Rubén Ramírez García “AKA N1Tr0”</p>
 </blockquote>
 
