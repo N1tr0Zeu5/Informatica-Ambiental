@@ -17,9 +17,8 @@
 <h2 id="º-que-es-la-contaminación-ambiental"><em><strong>-1º Que es la contaminación Ambiental</strong></em></h2>
 <p>-El planeta nos recuerda continuamente, las consecuencias del aumento de la contaminación a través de sequías, incendios, inundaciones, perdida de la biodiversidad y desastres naturales y desastres naturales.<br>
 <img src="https://i.blogs.es/466383/all-the-worlds-carbon-emissions-1-/1366_2000.jpeg" alt="enter image description here"></p>
-<p>La actividad humana ha sido la principal fuente de contaminación del planeta, contaminando así nuestro entorno y alterando el equilibrio de los ecosistemas, siendo esto un riesgo considerable tanto para la salud, como las enfermedades respiratorias agravadas o la biosfera, alterando hábitat y destruyendo fauna y flora.<br>
-<img src="https://www.cepal.org/sites/default/files/pr/images/foto_plasticos.jpeg?timestamp=1685984317" alt="enter image description here"><br>
-La OMS (<a href="https://www.who.int/es/health-topics/air-pollution#tab=tab_1">“Organizacion Mundial de la Salud”</a>) afirma que una gran parte de la población reside en áreas contaminadas superando los limites establecidos como saludables.<br>
+<p>La actividad humana ha sido la principal fuente de contaminación del planeta, contaminando así nuestro entorno y alterando el equilibrio de los ecosistemas, siendo esto un riesgo considerable tanto para la salud, como las enfermedades respiratorias agravadas o la biosfera, alterando hábitat y destruyendo fauna y flora.</p>
+<p>La OMS (<a href="https://www.who.int/es/health-topics/air-pollution#tab=tab_1">“Organizacion Mundial de la Salud”</a>) afirma que una gran parte de la población reside en áreas contaminadas superando los limites establecidos como saludables.<br>
 <img src="https://unfccc.int/sites/default/files/2018-05/DcS7CTsW0AU0lPh.jpg%20large.jpg" alt="enter image description here"></p>
 <blockquote></blockquote>
 <h2 id="º-la-contaminación-tecnológica"><em><strong>2º La Contaminación Tecnológica</strong></em></h2>
