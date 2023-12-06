@@ -17,7 +17,8 @@
 <h2 id="º-que-es-la-contaminación-ambiental"><em><strong>-1º Que es la contaminación Ambiental</strong></em></h2>
 <p>-El planeta nos recuerda continuamente, las consecuencias del aumento de la contaminación a través de sequías, incendios, inundaciones, perdida de la biodiversidad y desastres naturales y desastres naturales.<br>
 <img src="https://i.blogs.es/466383/all-the-worlds-carbon-emissions-1-/1366_2000.jpeg" alt="enter image description here"></p>
-<p>La actividad humana ha sido la principal fuente de contaminación del planeta, contaminando así nuestro entorno y alterando el equilibrio de los ecosistemas, siendo esto un riesgo considerable tanto para la salud, como las enfermedades respiratorias agravadas o la biosfera, alterando hábitat y destruyendo fauna y flora.</p>
+<p>La actividad humana ha sido la principal fuente de contaminación del planeta, contaminando así nuestro entorno y alterando el equilibrio de los ecosistemas, siendo esto un riesgo considerable tanto para la salud, como las enfermedades respiratorias agravadas o la biosfera, alterando hábitat y destruyendo fauna y flora.<br>
+<img src="https://camo.githubusercontent.com/b773f3c29d154028a8b55904fd1317bc004310e68ca391c4a1177885e0de53a1/68747470733a2f2f7777772e636570616c2e6f72672f73697465732f64656661756c742f66696c65732f70722f696d616765732f666f746f5f706c61737469636f732e6a7065673f74696d657374616d703d31363835393834333137" alt="enter image description here"></p>
 <p>La OMS (<a href="https://www.who.int/es/health-topics/air-pollution#tab=tab_1">“Organizacion Mundial de la Salud”</a>) afirma que una gran parte de la población reside en áreas contaminadas superando los limites establecidos como saludables.<br>
 <img src="https://unfccc.int/sites/default/files/2018-05/DcS7CTsW0AU0lPh.jpg%20large.jpg" alt="enter image description here"></p>
 <blockquote></blockquote>
