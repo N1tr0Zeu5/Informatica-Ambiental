@@ -41,9 +41,11 @@ No obstante también hay países que encabezan a los mas contaminantes :<br>
 <p>El término fue popularizado en 1954 por el diseñador industrial estadounidense Brooks Stevens.</p>
 <p>-Actualmente existen numerosas campañas de marketing que apoyan e incentivan estas practicas “Usar y Tirar”, un buen ejemplo de serian las campañas de Black Friday, donde las ofertas en dispositivos IT se disparan, haciendo que el consumidor tenga mas fácil la sustitución de sus antiguos dispositivos que aunque siguen rindiendo no son el ultimo modelo<br>
 <img src="https://www.eulixe.com/asset/thumbnail,768,432,center,center/media/eulixe/images/2020/10/13/2020101309092276923.jpg" alt="enter image description here"></p>
-<blockquote>
-<p>4 <strong>Informática Ecológica</strong></p>
-</blockquote>
+<blockquote></blockquote>
+<h2 id="informática-ecológica">4 *<em>Informática Ecológica</em></h2>
+<ul>
+<li></li>
+</ul>
 <p>-La informática ecológica consiste en que  la informática sea respetuosa con el medio ambiente. Con dispositivos IT, ordenadores, smartphones que buscan ser sostenibles con el medio ambiente. Siguiendo este movimiento nace el “Green Computing”</p>
 <blockquote>
 <p>Pero que es el Green Computing</p>
@@ -63,5 +65,8 @@ No obstante también hay países que encabezan a los mas contaminantes :<br>
 <p><strong><a href="https://elpais.com/clima-y-medio-ambiente/2023-11-30/la-cumbre-del-clima-de-dubai-se-abre-con-la-aprobacion-de-un-nuevo-fondo-para-compensar-a-las-naciones-mas-vulnerables.html">INICIATIVA CONTRA LOS EFECTOS DEL CAMBIO CLIMÁTICO</a></strong> El texto aprobado en el inicio de la COP 28 pide al Banco Mundial que tenga en funcionamiento este mecanismo durante el próximo año. Y, tras la aprobación del acuerdo, Sultán al Jaber ha anunciado que Emiratos Árabes Unidos aportará 100 millones de dólares (unos 92 millones de euros) para la puesta en marcha del fondo. Alemania ha anunciado otros 100 millones de dólares más. En su conjunto, los Veintisiete contribuirán con al menos 225 millones de euros, aunque la cifra concreta de cada nación se anunciará durante los próximos días, como ha explicado Valvanera Ulargui, directora de la Oficina de Cambio Climático española.<br>
 <img src="https://cdn.discordapp.com/attachments/1161416609911549963/1182019243018027158/PPA674LPE5APLKL3MZ7SOOZITE.jpg?ex=65832c34&amp;is=6570b734&amp;hm=c673f770dc5f754365d4450127e4d529c60e32f6b455036c92140be0769e4365&amp;" alt="enter image description here"></p>
 <!--stackedit_data:&#10;eyJoaXN0b3J5IjpbLTE3NTM0NDIxOTYsMTczMjQ4MjE1Nl19&#10;-->
-<p>Realizado por Alejando Lamprea Pérez “AKAElepe” y Rubén Ramírez García “AKAN1Tr0”</p>
+<blockquote>
+<hr>
+<p>Realizado por Alejando Lamprea Pérez “AKA Elepe” y Rubén Ramírez García “AKA N1Tr0”</p>
+</blockquote>
 
