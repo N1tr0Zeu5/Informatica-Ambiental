@@ -7,12 +7,12 @@
 <hr>
 </blockquote>
 <h1 id="trabajo-informatica-ambiental.">Trabajo Informatica-Ambiental.<img src="https://www.foronuclear.org/wp-content/uploads/2010/06/degradacion-Tierra-854x465.jpg?x69276" alt="enter image description here"></h1>
-<h2 id="indice--1º¿que-es-la-contaminación-ambiental--2º-contaminación-tecnologica--3º-obsolescencia-programada--4º-informatica-ecologica--5º-crisis-climatica">–INDICE:<br>
-–1º¿Que es la contaminación Ambiental?<br>
-–2º Contaminación Tecnologica<br>
-–3º Obsolescencia Programada<br>
-–4º Informatica ecologica<br>
-–5º Crisis Climatica</h2>
+<h2 id="indice---1º¿que-es-la-contaminación-ambiental---2º-contaminación-tecnologica---3º-obsolescencia-programada---4º-informatica-ecologica---5º-crisis-climatica">–INDICE:<br>
+– 1º¿Que es la contaminación Ambiental?<br>
+– 2º Contaminación Tecnologica<br>
+– 3º Obsolescencia Programada<br>
+– 4º Informatica ecologica<br>
+– 5º Crisis Climatica</h2>
 <blockquote></blockquote>
 <h2 id="º-que-es-la-contaminación-ambiental"><em><strong>-1º Que es la contaminación Ambiental</strong></em></h2>
 <p>-El planeta nos recuerda continuamente, las consecuencias del aumento de la contaminación a través de sequías, incendios, inundaciones, perdida de la biodiversidad y desastres naturales y desastres naturales.<br>
@@ -42,13 +42,10 @@ No obstante también hay países que encabezan a los mas contaminantes :<br>
 <p>-Actualmente existen numerosas campañas de marketing que apoyan e incentivan estas practicas “Usar y Tirar”, un buen ejemplo de serian las campañas de Black Friday, donde las ofertas en dispositivos IT se disparan, haciendo que el consumidor tenga mas fácil la sustitución de sus antiguos dispositivos que aunque siguen rindiendo no son el ultimo modelo<br>
 <img src="https://www.eulixe.com/asset/thumbnail,768,432,center,center/media/eulixe/images/2020/10/13/2020101309092276923.jpg" alt="enter image description here"></p>
 <blockquote></blockquote>
-<h2 id="informática-ecológica">4 *<em>Informática Ecológica</em></h2>
-<ul>
-<li></li>
-</ul>
+<h2 id="º-informática-ecológica">4º <em>Informática Ecológica</em></h2>
 <p>-La informática ecológica consiste en que  la informática sea respetuosa con el medio ambiente. Con dispositivos IT, ordenadores, smartphones que buscan ser sostenibles con el medio ambiente. Siguiendo este movimiento nace el “Green Computing”</p>
 <blockquote>
-<p>Pero que es el Green Computing</p>
+<p>¿Pero que es el Green Computing?</p>
 </blockquote>
 <ul>
 <li><strong><a href="https://www.innovaciondigital360.com/industria-4-0/green-computing-que-es-ejemplos-y-objetivos/">Green Computing</a></strong> representa una perspectiva en  la creación de smartphones hasta la gestión de complejos centros de datos, esta filosofía abarca todo el ciclo de vida de los dispositivos informáticos, con un enfoque en la  <strong>sostenibilidad medioambiental</strong>  y la eficiencia.</li>
