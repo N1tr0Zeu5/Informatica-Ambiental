@@ -40,9 +40,11 @@
 <p>“Los desechos electrónicos son el tipo de desechos que más rápido crecen en el mundo”</p>
 </blockquote>
 <p>Asegura <a href="https://www.santander.com/es/sala-de-comunicacion/santander-conferencia-internacional-de-banca/biografias/peter-bakker">Peter Bakker</a>, presidente del Consejo Empresarial Mundial para el Desarrollo Sostenible. Aunque también hay países que encabezan el reciclaje de este tipo de residuos, según un estudio de Iberdrola estos son algunos<br>
-<img src="https://www.iberdrola.com/documents/20125/40465/basura_tecnologica_ESP.jpg/8a145f02-7d1b-70dd-cc05-6947641ef631?t=1699440493432" alt=""><br>
-No obstante también hay países que encabezan a los mas contaminantes :<br>
-<img src="https://cdn.statcdn.com/Infographic/images/normal/12308.jpeg" alt="enter image description here"><br>
+<img src="https://www.iberdrola.com/documents/20125/40465/basura_tecnologica_ESP.jpg/8a145f02-7d1b-70dd-cc05-6947641ef631?t=1699440493432" alt=""></p>
+<blockquote>
+<p>No obstante también hay países que encabezan a los mas contaminantes :</p>
+</blockquote>
+<p><img src="https://cdn.statcdn.com/Infographic/images/normal/12308.jpeg" alt="enter image description here"><br>
 -<strong>Dato de interés</strong>: Al año se generan más de 50 millones de toneladas de chatarra tecnológica.</p>
 <h2 id="º-obsolescencia-programada"><em><strong>3º Obsolescencia Programada</strong></em></h2>
 <ul>
