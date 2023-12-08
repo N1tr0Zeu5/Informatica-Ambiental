@@ -4,7 +4,7 @@
 ---
 
 <h1 id="trabajo-informatica-ambiental.">Trabajo Informatica-Ambiental.<img src="https://www.foronuclear.org/wp-content/uploads/2010/06/degradacion-Tierra-854x465.jpg?x69276" alt="enter image description here"></h1>
-<h1 id="índice">–Índice:</h1>
+<h1 id="índice">Índice:</h1>
 <h2 id="º¿que-es-la-contaminación-ambiental---2º-contaminación-tecnológica---3º-obsolescencia-programada---4º-informatica-ecologica---5º-crisis-climatica">– 1º¿Que es la contaminación Ambiental?<br>
 – 2º Contaminación Tecnológica<br>
 – 3º Obsolescencia Programada<br>
